@@ -1,0 +1,7 @@
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\bin\Debug\Data_S.exe.config
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\bin\Debug\Data_S.exe
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\bin\Debug\Data_S.pdb
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\obj\Debug\Data_S.csproj.AssemblyReference.cache
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\obj\Debug\Data_S.csproj.CoreCompileInputs.cache
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\obj\Debug\Data_S.exe
+D:\Readwan\11th semester\.net\MVC\Data_S\Data_S\obj\Debug\Data_S.pdb
